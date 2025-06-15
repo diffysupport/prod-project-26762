@@ -18,12 +18,11 @@ advanced:
     remove: ''
     delay: 15
     scroll: true
-    headers:
-        - { header: '', value: '' }
+    headers: {  }
     cookies: ''
     custom_js: ''
     custom_css: ''
-    mock_content: ''
+    mock_content: {  }
     sensitivity: 15
     night_mode: false
     retina_images: false
